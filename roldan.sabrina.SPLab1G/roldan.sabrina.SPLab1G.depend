@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1625527991 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625527748 c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\linkedlist.h
+
+1621467414 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\roldan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"roldan.h"
+
+1621466440 c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\roldan.h
+
+1625526423 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+
+1625530450 c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\pais.h
+	"LinkedList.h"
+
+1625521763 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Pais.h"
+
+1625443323 c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\parser.h
+	"LinkedList.h"
+
+1625529952 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Pais.h"
+	<time.h>
+
+1625524477 c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\controller.h
+
+1625531051 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.splabi1g\roldan.sabrina.splab1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Pais.h"
+	"parser.h"
+	"roldan.h"
+	<time.h>
+

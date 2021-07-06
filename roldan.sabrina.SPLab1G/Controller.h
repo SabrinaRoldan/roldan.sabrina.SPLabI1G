@@ -1,0 +1,10 @@
+int controller_loadFromText(LinkedList* pArrayListPais,int* proximoId);
+int controller_loadFromBinary(LinkedList* pArrayListPais,int* proximoId);
+int controller_addPais(LinkedList* pArrayListPais,int* pId);
+int controller_editPais(LinkedList* pArrayListPais);
+int controller_removePais(LinkedList* pArrayListPais);
+int controller_ListPais(LinkedList* pArrayListPais);
+int controller_sortPais(LinkedList* pArrayListPais);
+int controller_saveAsText(LinkedList* pArrayListPais);
+int controller_saveAsBinary(LinkedList* pArrayListPais);
+int pais_aleatoryPaises(LinkedList* this,int id);
